@@ -1,5 +1,5 @@
 # Site settings
-title: Luke Pritchard | Software Developer
+title: Luke Pritchard | iOS Developer
 description:
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -7,7 +7,7 @@ description:
 # User settings
 username: Luke Pritchard
 user_description: I am a computer engineering student at McMaster University and currently looking for summer co-ops or longer in the areas of Data Analytics, Back End development and Data Engineering.
-user_title: Software Developer
+user_title: iOS Developer
 email: pritchlj@mcmaster.ca
 twitter_username: PritchardLJ
 github_username:  luke-pritch
